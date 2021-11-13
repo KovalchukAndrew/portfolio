@@ -1,0 +1,19 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #fff0d0;
+}
+.container {
+    width: 70%;
+    height: 100%;
+    border: 1px solid;
+    margin: 0 auto;
+}
+.greetingText {
+    width: 300px;
+    background-color: #f5f3f0;
+}
+.photo {
+    width: 300px;
+    height: 450px;
+    background-color: #f5f3f0;
+}
