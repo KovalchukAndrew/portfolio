@@ -3,10 +3,7 @@
     background-color: #fff0d0;
 }
 .container {
-    width: 70%;
-    height: 100%;
-    border: 1px solid;
-    margin: 0 auto;
+    align-items: center;
 }
 .greetingText {
     width: 300px;
