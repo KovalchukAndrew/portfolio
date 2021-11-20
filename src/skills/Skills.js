@@ -8,6 +8,9 @@ function Skills() {
         <div className={style.skillsBlock}>
             <div className={`${styleContainer.container} ${style.container}`}>
                 <h2>My skills</h2>
+                <div className={style.skills}>
+
+                </div>
             </div>
 
         </div>
