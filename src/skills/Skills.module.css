@@ -3,5 +3,17 @@
     background-color: #f6ebff;
 }
 .container {
-    align-items: flex-start;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.title {
+    background-color: #c07aff;
+}
+
+.skills {
+    border: 2px blueviolet solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
 }
