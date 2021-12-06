@@ -5,7 +5,7 @@ function Skill(props) {
     return (
         <div className={style.skillBlock}>
             <div className={style.icon}>
-
+                icon
             </div>
             <h3>{props.title}</h3>
             <span className={style.discription}>

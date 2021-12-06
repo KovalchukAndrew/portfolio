@@ -4,4 +4,11 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    text-align: center;
+}
+
+.icon {
+    background-color: darkgrey;
+    height: 60px;
+    width: 60px;
 }

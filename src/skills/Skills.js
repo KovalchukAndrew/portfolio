@@ -11,9 +11,11 @@ function Skills() {
                 <h2 className={style.title}>My skills</h2>
                 <div className={style.skills}>
                     <Skill title="JS"
-                           discription="Hard skills are usually teachable while soft skills are much harder to develop because they are typically personality traits and, therefore, extremely valuable to employers. In most cases, your soft skills can enhance your hard skills."/>
-                    <Skill title="React" discription="Hard skills are usually teachable while soft skills are much harder to develop because they are typically personality traits and, therefore, extremely valuable to employers. In most cases, your soft skills can enhance your hard skills."/>
-                    <Skill title="HTML/CSS" discription="Hard skills are usually teachable while soft skills are much harder to develop because they are typically personality traits and, therefore, extremely valuable to employers. In most cases, your soft skills can enhance your hard skills."/>
+                           discription="Hard skills are usually teachable while soft skills are much harder to develop."/>
+                    <Skill title="React"
+                           discription="In most cases, your soft skills can enhance your hard skills."/>
+                    <Skill title="HTML/CSS"
+                           discription="they are typically personality traits and, therefore, extremely valuable to employers"/>
                 </div>
             </div>
 
