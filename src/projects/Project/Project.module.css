@@ -1,0 +1,24 @@
+.projectBlock {
+    width: 400px;
+    display: flex;
+    background-color: bisque;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.project {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.projectImage {
+    background-color: #f6e6e6;
+    width: 200px;
+    height: 200px;
+}
+.discriptionBlock {
+    background-color: #c2e3d4;
+}
+
